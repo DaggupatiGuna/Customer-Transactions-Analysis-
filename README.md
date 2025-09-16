@@ -1,5 +1,3 @@
-# Customer-Transactions-Analysis-
- Description for a GitHub Repository This repository contains a KNIME Analytics Platform workflow for a Customer Transactions Analysis project. The project was designed to help a sales professional, Pauline, automate her monthly data reporting tasks.
 Customer Transactions Analysis
 📝 Overview
 This repository contains a data pipeline workflow built with KNIME Analytics Platform for a Customer Transactions Analysis project. The workflow was developed to help a sales team member, Pauline, automate her monthly data reporting and visualization tasks. The project provides a complete solution for processing customer transaction data from various sources to generate actionable insights.
